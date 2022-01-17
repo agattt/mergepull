@@ -8,3 +8,8 @@ def function2():
 
 def function3():
     print("Call of function 3")
+
+  
+def function4():
+    print("Call of function 4")
+
